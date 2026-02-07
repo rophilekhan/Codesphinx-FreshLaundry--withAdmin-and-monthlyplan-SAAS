@@ -77,8 +77,8 @@ const Footer = () => {
             <ul className="space-y-2 text-muted-foreground">
               <li>123 Clean Street</li>
               <li>Laundry District, NY 10001</li>
-              <li className="mt-4">+1 (555) 123-4567</li>
-              <li>hello@freshlaundry.com</li>
+              <li className="mt-4">+92 (331) 2699111</li>
+              <li>contact.codesphinx@gmail.com</li>
             </ul>
           </div>
         </div>
@@ -86,7 +86,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2024 FreshLaundry. All rights reserved.
+            © 2026 Codesphinx . All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <button className="text-muted-foreground hover:text-primary transition-colors">

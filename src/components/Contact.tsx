@@ -65,12 +65,12 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567"
+      content: "+92 (331) 2699111"
     },
     {
       icon: Mail,
       title: "Email Us",
-      content: "hello@freshlaundry.com"
+      content: "contact.codesphinx@gmail.com"
     },
     {
       icon: Clock,
